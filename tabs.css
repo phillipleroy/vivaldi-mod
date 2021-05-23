@@ -4,13 +4,14 @@
 .tab {
     height: 28px;
     border-radius: 4px !important;
+    margin-right: 4px !important;
 }
 .sync-and-trash-container {
     top: -4px;
 }
 .tab,
 .toolbar.toolbar-tabbar {
-    margin-top: -2px;
+    margin-top: -3px;
 }
 .toolbar-tabbar .newtab > button svg path {
     d: path('M 8 14 H 12 V 18 H 14 V 14 H 18 V 12 H 14 V 8 H 12 V 12 H 8 V 14 Z');
