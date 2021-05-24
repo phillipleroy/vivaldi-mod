@@ -11,7 +11,7 @@
 }
 .tab,
 .toolbar.toolbar-tabbar {
-    margin-top: -3px;
+    margin-top: -2.5px;
 }
 .toolbar-tabbar .newtab > button svg path {
     d: path('M 8 14 H 12 V 18 H 14 V 14 H 18 V 12 H 14 V 8 H 12 V 12 H 8 V 14 Z');
