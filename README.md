@@ -7,3 +7,5 @@ Mod for Vivaldi CSS
 - vivaldi://restart
 - vivaldi://settings/appearance/ to chose the mod_V folder path 
 - vivaldi://restart
+
+![E2GYl60WYAE47Aq](https://user-images.githubusercontent.com/20702151/133409495-5877d19c-fd2f-4365-ad99-9b6def41ed91.jpg)
